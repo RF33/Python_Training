@@ -1,0 +1,14 @@
+# Assumes python 3.10
+
+black=23.3.0
+ipykernel==6.23.1
+jupyter==1.0.0
+jupyter-book==0.15.1
+matplotlib==3.7.1
+numpy==1.24.3
+pandas==2.0.1
+pandarallel==1.6.5
+scikit-learn==1.2.2
+seaborn==0.12.2
+
+
